@@ -29,33 +29,49 @@ The repository includes training logs, configuration files, required libraries a
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Display GPU Status: <br/>
-<img src="https://i.imgur.com/IP2fmVn.png" height="80%" width="80%" alt="DL Model Training Steps"/>
-<br />
 <br />
 Install Libraries:  <br/>
-<img src="https://i.imgur.com/SXILpO4.png" height="80%" width="80%" alt="DL Model Training Steps"/>
+<img src="https://imgur.com/aFeGOtd.png" height="80%" width="80%" alt="DL Model Training Steps"/>
 <br />
 <br />
 Import Required Libraries: <br/>
-<img src="https://i.imgur.com/q6ilmpW.png" height="80%" width="80%" alt="DL Model Training Steps"/>
+<img src="https://imgur.com/4y441Ws.png" height="80%" width="80%" alt="DL Model Training Steps"/>
 <br />
 <br />
-Mount Google Drive:  <br/>
-<img src="https://i.imgur.com/uYGg1cW.png" height="80%" width="80%" alt="DL Model Training Steps"/>
+Downloading Shapefile:  <br/>
+<img src="https://imgur.com/9kkEBe4.png" height="80%" width="80%" alt="DL Model Training Steps"/>
 <br />
 <br />
-Train the Building Classification Model:  <br/>
-<img src="https://i.imgur.com/ZoWPFzc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Downloading Watershed Data from ArcGIS API:  <br/>
+<img src="https://imgur.com/GcG7eLp.png" height="80%" width="80%" alt="DL Model Training Steps"/>
 <br />
 <br />
-Training Completion Summary and Performance Metrics:  <br/>
-<img src="https://i.imgur.com/sq09Qav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Plotting the Map (Flood Prone Area In Saint John) on a World Basemap (Esri):  <br/>
+<img src="https://imgur.com/J1xisD3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Model Detection of Buildings, Highlighting Damage and Structural Types.:  <br/>
-<img src="https://i.imgur.com/iTeh9G6.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Plotting Saint John River Basin Watersheds:  <br/>
+<img src="https://imgur.com/Ud8jB2b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Forest Soil Map of Study Area:  <br/>
+<img src="https://imgur.com/zVUiLyx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Plotting DEM Aspect Map:  <br/>
+<img src="https://imgur.com/W6ckg1o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Plotting Land Cover Map of Study Area:  <br/>
+<img src="https://imgur.com/YjetZb9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Evaluating Different Algorithm Performances:  <br/>
+<img src="https://imgur.com/8djRexA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Predicting Flood:  <br/>
+<img src="https://imgur.com/PEzSNmF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 </p>
 
 <!--
